@@ -3,7 +3,7 @@ some JB Prompts for the unofficial app by lencx
 
 just get the unofficial app here >> https://github.com/lencx/ChatGPT/releases
 
-then install the app, login the service, then open Preferences >> Control Center >> Language Model >> Sync Custom >> Add Path >> add a name (smoothJBPrompts), select csv and input the url `https://raw.githubusercontent.com/smoothoperatorgr/smoothJBPrompts/main/smoothJBPrompts.csv`
+then install the app, login the service, then open Preferences >> Control Center >> Language Model >> Sync Custom >> Add Path >> add a name (smoothJBPrompts), select csv and input the url `raw.githubusercontent.com/smoothoperatorgr/smoothJBPrompts/main/smoothJBPrompts`
 
 thats it now go to a chat and press `/`
 
