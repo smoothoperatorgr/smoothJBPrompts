@@ -8,7 +8,7 @@ some JB Prompts for the unofficial app by lencx
 3. thats it now go to a chat and press `/`
 
 how to use the prompts:
-- press `/` then navigate to the wanted JB and click space (by clicking space the Prompt of the selected JB is only put in the input box, it does not return so you can edit it)
+- press `/` then start typing or navigate(with up/down arrows) to the wanted JB and click space (by clicking space the Prompt of the selected JB is only put in the input box, it does not return so you can edit it)
 - edit the prompt to your liking press enter and profit!!!
 
 Commands Implemented:
