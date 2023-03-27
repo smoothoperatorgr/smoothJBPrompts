@@ -17,4 +17,6 @@ Commands Implemented:
 
 will add more, or you can also add yours in the repo by adding `"<cmd_of_jb>","<name>","<the prompt>"` but be sure the prompt is a one liner without any `" "` in it, replace all `"` with `''` (double single quotes)
 
-see a video of the installation and use process: <iframe title="smoothJBPrompts installation walkthrough - HD 720p 30fps" width="560" height="315" src="https://video.liberta.vip/videos/embed/4dbbd5af-43af-40e0-93ca-3d39fdcb1547" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+see a video of the installation and use process: 
+
+https://video.liberta.vip/videos/embed/4dbbd5af-43af-40e0-93ca-3d39fdcb1547
