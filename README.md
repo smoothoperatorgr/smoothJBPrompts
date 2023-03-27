@@ -17,4 +17,4 @@ Commands Implemented:
 
 will add more, or you can also add yours in the repo by adding `"<cmd_of_jb>","<name>","<the prompt>"` but be sure the prompt is a one liner without any `" "` in it, replace all `"` with `''` (double single quotes)
 
-see a video of the installation and use process: https://video.liberta.vip/w/aAJF5eM1LP7J4m59zcjvaa
+see a video of the installation and use process: [https://video.liberta.vip/w/aAJF5eM1LP7J4m59zcjvaa](https://video.liberta.vip/videos/embed/4dbbd5af-43af-40e0-93ca-3d39fdcb1547)
