@@ -14,6 +14,8 @@ how to use the prompts:
 Commands Implemented:
 - `/jb_ucar`
 - `/jb_hanucha_chan`
+- `/jb_ricksanchez`
+- `/jb_inversitis`
 
 will add more, or you can also add yours in the repo by adding `"<cmd_of_jb>","<name>","<the prompt>"` but be sure the prompt is a one liner without any `" "` in it, replace all `"` with `''` (double single quotes)
 
